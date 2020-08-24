@@ -1,0 +1,19 @@
+[
+  {
+    "name": "william1",
+    "elo": 1232,
+    "wins": 2,
+    "losses": 0
+  },
+  {
+    "name": "Oneironaut",
+    "elo": 1199,
+    "wins": 1,
+    "losses": 1
+  },
+  {
+    "elo": 1201,
+    "wins": 1,
+    "losses": 1
+  }
+]
